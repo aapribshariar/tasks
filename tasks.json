@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T07:12:00+06:00",
+  "updated": "2026-10-05T08:21:00+06:00",
   "tasks": [
     {
       "id": "t1",
@@ -8,6 +8,138 @@
       "due": "2026-10-05T09:00:00+06:00",
       "remind": "2026-10-05T07:30:00+06:00",
       "notes": "Test task from Claude"
+    }
+  ],
+  "routine": [
+    {
+      "time": "02:00",
+      "title": "Brush, lemon-ginger, date, tahajjud",
+      "notify": true
+    },
+    {
+      "time": "03:00",
+      "title": "Study block 1: Physics",
+      "notify": true
+    },
+    {
+      "time": "04:30",
+      "title": "Fajr",
+      "notify": true
+    },
+    {
+      "time": "05:00",
+      "title": "Walk + exercise",
+      "notify": true
+    },
+    {
+      "time": "05:40",
+      "title": "Shower 1 + morning skincare",
+      "notify": true
+    },
+    {
+      "time": "06:00",
+      "title": "Prep breakfast: eggs, roti, vegetables",
+      "notify": true
+    },
+    {
+      "time": "06:20",
+      "title": "Breakfast",
+      "notify": true
+    },
+    {
+      "time": "06:35",
+      "title": "Study block 2: Maths",
+      "notify": true
+    },
+    {
+      "time": "09:00",
+      "title": "Chasht, then fruit + salad + nuts",
+      "notify": true
+    },
+    {
+      "time": "09:30",
+      "title": "Study block 3: Past papers",
+      "notify": true
+    },
+    {
+      "time": "11:00",
+      "title": "Make lunch salad, then short break",
+      "notify": true
+    },
+    {
+      "time": "12:00",
+      "title": "Lunch, then walk",
+      "notify": true
+    },
+    {
+      "time": "12:40",
+      "title": "Dhuhr",
+      "notify": true
+    },
+    {
+      "time": "13:00",
+      "title": "Nap",
+      "notify": false
+    },
+    {
+      "time": "15:00",
+      "title": "Wake from nap: yogurt + tea",
+      "notify": true
+    },
+    {
+      "time": "15:20",
+      "title": "Tracker hour",
+      "notify": true
+    },
+    {
+      "time": "16:25",
+      "title": "Asr, then Arabic",
+      "notify": true
+    },
+    {
+      "time": "16:45",
+      "title": "Arabic, 20 min",
+      "notify": true
+    },
+    {
+      "time": "17:05",
+      "title": "Shower 2 (hair wash Sat/Mon/Wed)",
+      "notify": true
+    },
+    {
+      "time": "17:40",
+      "title": "Maghrib, then dinner prep",
+      "notify": true
+    },
+    {
+      "time": "18:15",
+      "title": "Dinner, then walk at 6:30",
+      "notify": true
+    },
+    {
+      "time": "18:55",
+      "title": "Isha, then Hajat",
+      "notify": true
+    },
+    {
+      "time": "19:30",
+      "title": "Hajat",
+      "notify": true
+    },
+    {
+      "time": "20:10",
+      "title": "Night prep: dough, lemon-ginger, veg",
+      "notify": true
+    },
+    {
+      "time": "21:15",
+      "title": "Brush, night skincare",
+      "notify": true
+    },
+    {
+      "time": "21:30",
+      "title": "Lights out, sleep",
+      "notify": true
     }
   ]
 }
